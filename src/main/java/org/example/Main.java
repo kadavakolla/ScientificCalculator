@@ -6,8 +6,7 @@ import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 
 public class Main {
-
-    // Logger setup using Log4j
+    
     private static final Logger logger = LogManager.getLogger(Main.class);
 
     // Square root function (√x)
