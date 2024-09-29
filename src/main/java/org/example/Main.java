@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     
     private static final Logger logger = LogManager.getLogger(Main.class);
-
+    //add comment
     // Square root function (√x)
     public static double squareRoot(double x) {
         logger.info("Operation: Square root - Start");
